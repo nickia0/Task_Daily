@@ -14,9 +14,5 @@
 - 本仓库的Github Action 克隆[lxk0301/jd_scripts](https://gitee.com/lxk0301/jd_scripts) 在码云备份的代码运行，防止主库被封禁。
 - 取消 `star` 触发，防止过于触发过于频繁，遭到封禁
 - `Github Secrets` 说明见[这里](https://github.com/lxk0301/jd_scripts/blob/master/githubAction.md)
-
-
-
-
  
 
